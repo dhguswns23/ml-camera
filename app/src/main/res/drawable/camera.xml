@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/camera_shutter"
+        android:width="10dp"
+        android:height="4dp"
+        android:right="20dp"
+        android:gravity="top|right">
+    </item>
+    <item android:drawable="@drawable/camera_body"
+        android:width="60dp"
+        android:height="40dp"
+        android:gravity="center"
+        android:top="4dp">
+    </item>
+    <item android:drawable="@drawable/camera_lens"
+        android:width="25dp"
+        android:height="25dp"
+        android:gravity="center"
+        android:top="4dp">
+    </item>
+</layer-list>
